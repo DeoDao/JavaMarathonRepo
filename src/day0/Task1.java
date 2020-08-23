@@ -1,6 +1,6 @@
-package com.company;
+package day0;
 
-public class Main {
+public class Task1 {
 
     public static void main(String[] args) {
         System.out.println("Hello world!");
