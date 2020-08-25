@@ -1,2 +1,4 @@
-package Day2;public class Task4 {
+package Day2;
+
+public class Task4 {
 }
