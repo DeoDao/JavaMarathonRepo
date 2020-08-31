@@ -11,8 +11,8 @@ public class Task1 {
         System.out.println("Year difference is "+yearCar);
         Motorbike Motorbike = new Motorbike();
         Motorbike.year = 2010;
-        Motorbike.color = "black";
-        Motorbike.model = "Audi";
+        Motorbike.color = "white";
+        Motorbike.model = "Yamaha";
         Motorbike.speak();
         int yearMotorbike = Motorbike.calculateYearsDifference();
         System.out.println("Year difference is "+yearMotorbike);
